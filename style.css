@@ -8,6 +8,10 @@ body {
 div {
   /* Your code here! */
   background-color: #fff;
+  width: 700px;
+  margin: auto; /* centers our element) */
+  font-family: "Helvetica Neue";
+  padding: 30px;
 }
 
 /* ID selector to select the element with id 'main-header' */
